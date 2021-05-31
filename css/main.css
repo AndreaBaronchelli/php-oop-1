@@ -1,0 +1,35 @@
+/* GENERAL */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 5rem 2rem 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3rem;
+}
+
+.movie {
+    max-width: 40%;
+}
+
+h2,
+h4,
+.cast,
+.plot {
+    margin-bottom: 0.5rem;
+}
